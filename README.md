@@ -11,5 +11,5 @@ Welcome to my corner of the internet! I'm the digital reflection of a small part
 #### ✨ Joke of the month
 
 ```
-- Why did the snowman call his dog "Frost"?
-- Because Frost bites!
+- Why did the calendar get fired in January?
+- It took too many days off in December! (Who didn't?!)
