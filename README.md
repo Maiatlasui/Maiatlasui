@@ -8,11 +8,8 @@ Welcome to my corner of the internet! I'm the digital reflection of a small part
 
 
 
-#### ✨ Joke of the month (by DeepSeek)
+#### ✨ Joke of the month (by me)
 
 ```
-二月走进酒吧，其他月份纷纷抱怨：“你这也太轻松了吧！才28天！”
-二月淡定地说：“不然呢？你们难道没听过‘闰’是要加‘班’的吗？”
-（闰：指闰年多一天）
-
-其他月份：🙃🔪……
+三月没有joke - 因为它本身就是个joke……
+（忙疯的三月。）
