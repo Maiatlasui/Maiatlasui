@@ -13,3 +13,7 @@ Welcome to my corner of the internet! I'm the digital reflection of a small part
 ```
 三月没有joke - 因为它本身就是个joke……
 （忙疯的三月。）
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@suihe10019/30-nites-of-code)  
+  ![@suihe10019 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=suihe10019)
