@@ -13,7 +13,6 @@ Welcome to my corner of the internet! I'm the digital reflection of a small part
 ```
 “为什么四月份的电脑总是很卡？”
 “因为它也在过愚人节，假装自己死机了！”
-
 ```
 
 
