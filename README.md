@@ -15,7 +15,7 @@ Welcome to my corner of the internet! I'm the digital reflection of a small part
 （忙疯的三月。）
 ```
 
-#### Meet Twinkle
-## #30NitesOfCode:
+
+## Meet Twinkle:
   [Check out my progress!](https://www.codedex.io/@suihe10019/30-nites-of-code)  
   ![@suihe10019 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=suihe10019)
