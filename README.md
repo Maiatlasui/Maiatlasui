@@ -11,12 +11,6 @@ Welcome to my corner of the internet! I'm the digital reflection of a small part
 #### ✨ Joke of the month (by me)
 
 ```
-“为什么四月份的电脑总是很卡？”
-“因为它也在过愚人节，假装自己死机了！”
+Who needs jokes when the research season is on?
+XD
 ```
-
-
-## Meet Twinkle:
-   
-  [Check out my progress!](https://www.codedex.io/@suihe10019/30-nites-of-code)  
-  ![@suihe10019 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=suihe10019)
